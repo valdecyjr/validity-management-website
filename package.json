@@ -1,0 +1,19 @@
+{
+  "name": "stock-manager",
+  "version": "1.0.0",
+  "description": "Gerenciador de estoque para me ajudar no trabalho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valdecyjr/stock-manager-website.git"
+  },
+  "author": "scardev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valdecyjr/stock-manager-website/issues"
+  },
+  "homepage": "https://github.com/valdecyjr/stock-manager-website#readme"
+}
